@@ -1,0 +1,4 @@
+microsoft
+apple
+google
+development
